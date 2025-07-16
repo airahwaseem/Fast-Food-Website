@@ -41,7 +41,10 @@ Just open `index.html` in your browser, and you’ll see the homepage in action!
 
 ## 📷 Sneak Peek
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f78afbd-8143-4a37-944e-caed38df7ca6" />
+<img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/dd34cf5a-5be4-4be3-989a-a60ae395a450" />
+<img width="1920" height="961" alt="image" src="https://github.com/user-attachments/assets/77894054-9347-4985-a608-322d37cfa3a6" />
+
+
 ---
 
 ## 💡 How to Use This
